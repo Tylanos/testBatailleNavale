@@ -23,7 +23,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bulma/css/bulma.css",
+              "node_modules/ngx-toasta/styles/style-default.css"
             ],
             "scripts": []
           },
